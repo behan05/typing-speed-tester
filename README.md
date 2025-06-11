@@ -83,7 +83,7 @@ npm install
 
 ## Environment Variables
 - Create .env inside server/ with:
-  ```bash
+```bash
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 ```
